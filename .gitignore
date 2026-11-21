@@ -43,3 +43,7 @@ backend/uploads/*
 # Coverage
 coverage/
 .coverage
+.wrangler/
+.dev.vars*
+frontend/dist/
+cloudflare/*.before-cloudflare-*
